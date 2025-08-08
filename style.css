@@ -64,10 +64,5 @@ body{
     width: 4px;
     height: var(--h);
     border-radius: 8px;
-
-
 }
-.model{
-    position: absolute;
-    margin-top:130px;
-}
+
